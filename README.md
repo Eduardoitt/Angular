@@ -12,6 +12,7 @@ Descargar NodeJs
 ### Angular Cli
 Una vez instalado NodeJs abrir terminal y ejecutar los siguientes comandos
 * npm install -g @angular/cli
+### TypeScript
 ### Crear proyecto de angular
 * En la terminal posicionarse en la carpeta deseada
 * ng new nombreproyecto
