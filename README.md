@@ -1,4 +1,5 @@
 # Angular
+
 ## Requerimientos
 
 * Nodejs
@@ -18,3 +19,4 @@ Una vez instalado NodeJs abrir terminal y ejecutar los siguientes comandos
 * ng new nombreproyecto
 * entar a la carpeta del proyecto en terminal
 * ejecutar ng serve
+
