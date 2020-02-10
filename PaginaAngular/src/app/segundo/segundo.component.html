@@ -1,0 +1,15 @@
+<h3>personas en arreglo</h3>
+{{personas}}
+<h3>personas en arreglo con lista desordenada</h3>
+<ul>
+    <li>{{personas[0]}}</li>
+    <li>{{personas[1]}}</li>
+    <li>{{personas[2]}}</li>
+    <li>{{personas[3]}}</li>
+</ul>
+
+<h3>peronas con ngfor</h3>
+
+<ul>
+    <li *ngFor="let persona of personas">{{persona}}</li>
+</ul>
