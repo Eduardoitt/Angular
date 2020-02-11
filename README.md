@@ -20,3 +20,4 @@ Una vez instalado NodeJs abrir terminal y ejecutar los siguientes comandos
 * entar a la carpeta del proyecto en terminal
 * ejecutar ng serve
 * ng generate component nombre_componente
+
