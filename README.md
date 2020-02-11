@@ -21,3 +21,9 @@ Una vez instalado NodeJs abrir terminal y ejecutar los siguientes comandos
 * ejecutar ng serve
 * ng generate component nombre_componente
 
+### Linux
+* sudo apt-get remove ng-common
+* sudo apt-get update  
+* curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
+* sudo apt-get install -y nodejs
+* sudo npm install -g @angular/cli
