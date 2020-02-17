@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./segundo.component.css']
 })
 export class SegundoComponent {
-  personas=['Jesus','Eduardo','Karen','Nohemi']
- 
+  personas=['Jesus','Eduardo','Karen','Nohemi'];
+  act= true;
 }
